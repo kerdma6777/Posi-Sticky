@@ -2,6 +2,8 @@
 
 After watching a good friend suffer as a victim of cyberbullying, the idea of an app that used social media to spread positivity and bring communities together, instead of tear them apart, was born.  Created with Chaitra Banala, Posi-Sticky is an Android app that allows users to subscribe and add to different feeds of positive messages.  To prevent abuse, an administrator owns and oversees feeds with the capability to delete negative or hurtful submissions. 
 
+https://cloud.githubusercontent.com/assets/14226503/9822962/6dd82604-5891-11e5-9044-67f5b6429cd7.jpg
+
 # To Download
 
 This Android Application is available for [download] (https://docs.google.com/uc?export=download&id=0ByNi1IZ-IJXyNy14SHpXN21DRFU).  It can be run on any Android device or emulator.
